@@ -8,4 +8,4 @@ It colorizes each image in a directory and saves colorized images in another dir
 See [DeOldify](https://github.com/jantic/DeOldify) for details.
 
 ## Run in Google Colaboratory
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/ImageColorization-colab/blob/master/DeOldify_ImageColorization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageColorization-colab/blob/master/DeOldify_ImageColorization.ipynb)
