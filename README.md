@@ -1,4 +1,4 @@
-# DeOldify Neural Image Colorization Batch Processor for Colab
+# DeOldify Neural Image Colorization Batch Processor (Colab)
 
 This is a batch processor for [DeOldify Image Colorizer](https://github.com/jantic/DeOldify) 
 to be run in Google Colaboratory, using Google Drive as data storage. 
